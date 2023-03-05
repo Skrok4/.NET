@@ -1,36 +1,39 @@
 1. Які базові бібліотеки використовувались для .NET Framework, .NET Core та Xamarin?
 
    Для .NET Framework, базові бібліотеки включають:
-   ·System
-   ·System.Data
-   ·System.Drawing
-   ·System.IO
-   ·System.Linq
-   ·System.Net
-   ·System.Security
-   ·System.Threading
-
+   >
+   >· System
+   >· System.Data
+   >· System.Drawing
+   >· System.IO
+   >· System.Linq
+   >· System.Net
+   >· System.Security
+   >· System.Threading
+   ###
    Для .NET Core, базові бібліотеки включають:
-   ·System.Runtime
-   ·System.Console
-   ·System.IO
-   ·System.Net.Http
-   ·System.Threading
-   ·System.Security.Cryptography
-   ·System.Linq
-   ·System.Collections
-
+   >
+   >· System.Runtime
+   >· System.Console
+   >· System.IO
+   >· System.Net.Http
+   >· System.Threading
+   >· System.Security.Cryptography
+   >· System.Linq
+   >· System.Collections
+   ###
    Для Xamarin, базові бібліотеки включають:
-   ·Xamarin.Forms
-   ·Xamarin.Android
-   ·Xamarin.iOS
-   ·Xamarin.UWP
-   ·System
-   ·System.Core
-   ·System.Net.Http
-   ·System.Xml
-   ·System.Json
-
+   >
+   >· Xamarin.Forms
+   >· Xamarin.Android
+   >· Xamarin.iOS
+   >· Xamarin.UWP
+   >· System
+   >· System.Core
+   >· System.Net.Http
+   >· System.Xml
+   >· System.Json
+   ###
 2. Що таке .NET Standard?
 
    .NET Standard - це специфікація, яка описує набір API-інтерфейсів, які мають бути реалізовані в кожній реалізації платформи .NET, такі як .NET Framework, .NET Core та Xamarin. Це означає, що ви можете створювати класи та бібліотеки, які використовують .NET Standard API, а потім використовувати їх в будь-якій платформі, яка підтримує .NET Standard.
