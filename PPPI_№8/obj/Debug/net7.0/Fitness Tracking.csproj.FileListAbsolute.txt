@@ -1,0 +1,46 @@
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\appsettings.json
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Fitness Tracking.exe
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Fitness Tracking.deps.json
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Fitness Tracking.runtimeconfig.json
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Fitness Tracking.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Fitness Tracking.pdb
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.csproj.AssemblyReference.cache
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.AssemblyInfoInputs.cache
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.AssemblyInfo.cs
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.csproj.CoreCompileInputs.cache
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.csproj.CopyComplete
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\refint\Fitness Tracking.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.pdb
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.genruntimeconfig.cache
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\ref\Fitness Tracking.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.RazorAssemblyInfo.cache
+C:\Users\Skrok\source\repos\Fitness Tracking\obj\Debug\net7.0\Fitness Tracking.RazorAssemblyInfo.cs
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Skrok\source\repos\Fitness Tracking\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
