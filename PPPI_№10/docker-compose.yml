@@ -1,0 +1,19 @@
+﻿version: '1'
+services:
+  fitness-tracking:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    networks:
+      - fitness-tracking
+
+  database-service:
+    restart: always
+    networks:
+      - fitness-tracking
+
+networks:
+  your-network-name:
+    driver: bridge
+
